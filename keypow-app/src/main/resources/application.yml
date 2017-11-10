@@ -1,0 +1,8 @@
+keypow:
+  wallet-url: http://172.16.50.32:8088/
+  game-url: http://localhost/sea-raider/
+---
+spring:
+  profiles: staging
+keypow:
+  wallet-url: http://Star9adWSLB-2121489624.ap-northeast-1.elb.amazonaws.com

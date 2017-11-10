@@ -1,0 +1,13 @@
+.DS_Store
+.settings
+.project
+.idea
+target/
+.classpath
+bin/
+*.iml
+
+### gitflow ###
+gitflow-avh-scripts/
+gitflow/
+
